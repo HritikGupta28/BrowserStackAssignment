@@ -2,3 +2,5 @@ requests
 beautifulsoup4
 selenium
 python-dotenv
+browserstack-local >= 1.2.3
+browserstack-sdk
