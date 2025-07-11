@@ -16,7 +16,7 @@ A modular Python automation tool that scrapes and analyzes the latest *Opinion* 
 
 1. Clone the Repository
 git clone https://github.com/HritikGupta28/BrowserStackAssignment.git
-cd elpais_scraper
+cd BrowserStackAssignment
 
 2. Install Dependencies
 bash
