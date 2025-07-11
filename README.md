@@ -15,7 +15,7 @@ A modular Python automation tool that scrapes and analyzes the latest *Opinion* 
 ## 🛠️ Setup Instructions
 
 1. Clone the Repository
-git clone https://github.com/your-username/elpais_scraper.git
+git clone https://github.com/HritikGupta28/BrowserStackAssignment.git
 cd elpais_scraper
 
 2. Install Dependencies
